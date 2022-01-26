@@ -1,0 +1,9 @@
+{
+	"name": "rtcadf-github",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c382bb1-6a3e-45c4-b200-f36dc97507f0",
+		"tenantId": "281280b5-acfc-430d-896a-9b49855a3f17"
+	}
+}
