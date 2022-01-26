@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "rtcadf-github"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
