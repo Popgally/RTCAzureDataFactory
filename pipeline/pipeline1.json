@@ -3,12 +3,22 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Append variable1",
-				"type": "AppendVariable",
+				"name": "Set variable1",
+				"type": "SetVariable",
 				"dependsOn": [],
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "Test",
+					"value": ""
+				}
 			}
 		],
+		"variables": {
+			"Test": {
+				"type": "String",
+				"defaultValue": "Pass"
+			}
+		},
 		"annotations": []
 	}
 }
